@@ -1,0 +1,8 @@
+Percurso em-ordem da arvore pre-operacoes: 
+2 4 5 8 12 14 17 
+Busca na arvore por valor nao presente: 
+None
+Busca na arvore por valor presente: 
+5
+Arvore apos insercao do valor 15, remocao de uma folha (2) e de um elemento interno (8): 
+4 5 12 14 15 17 
